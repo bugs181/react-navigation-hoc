@@ -1,6 +1,6 @@
 {
   "name": "react-navigation-hoc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Declarative Higher Order Components for react-navigation",
   "main": "index.js",
   "scripts": {
