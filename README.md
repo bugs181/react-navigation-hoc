@@ -36,7 +36,15 @@ Navigator is a set of React components providing a declarative API alternative t
 - Navigators use component properties
 - Nested StackNavigators inside TabNavigators
 - Screen component lifecycle methods
+- Works for version ~2 and ^3 of react-navigation
 
 # Prerequisites: #
 - react-navigation
 - react-navigation-tabs
+
+# Available components: #
+- \<Navigator /> - Top level component required to initialize children components.
+- \<TabBarBottom /> - createBottomTabNavigator
+- \<Tab /> - Helper component
+- \<Stack /> - createStackNavigator
+- \<Screen /> - Wrapper component for your screens
