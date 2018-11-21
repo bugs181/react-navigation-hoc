@@ -3,6 +3,9 @@ Declarative Higher Order Components for react-navigation
 
 Navigator is a set of React components providing a declarative API alternative to react-navigation.
 
+# Install: #
+    npm install --save react-navigation-hoc
+    
 # Example: #
 
     import React from 'react';
@@ -48,3 +51,4 @@ Navigator is a set of React components providing a declarative API alternative t
 - \<Tab /> - Helper component
 - \<Stack /> - createStackNavigator
 - \<Screen /> - Wrapper component for your screens
+
