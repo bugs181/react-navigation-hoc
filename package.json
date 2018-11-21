@@ -1,0 +1,27 @@
+{
+  "name": "react-navigation-hoc",
+  "version": "1.0.0",
+  "description": "Declarative Higher Order Components for react-navigation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bugs181/react-navigation-hoc.git"
+  },
+  "keywords": [
+    "react",
+    "react-navigation",
+    "hoc",
+    "higher",
+    "order",
+    "components"
+  ],
+  "author": "Levi Roberts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bugs181/react-navigation-hoc/issues"
+  },
+  "homepage": "https://github.com/bugs181/react-navigation-hoc#readme"
+}
