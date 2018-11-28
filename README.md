@@ -37,7 +37,7 @@ Navigator is a set of React components providing a declarative API alternative t
 # Features: #
 - Declarative style react-navigation
 - Navigators use component properties
-- Nested StackNavigators inside TabNavigators
+- Nested Navigators
 - Screen component lifecycle methods
 - Works for version ~2 and ^3 of react-navigation
 
