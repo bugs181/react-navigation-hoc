@@ -1,7 +1,7 @@
 # react-navigation-hoc
 Declarative Higher Order Components for react-navigation
 
-Navigator is a set of React components providing a declarative API alternative to react-navigation.
+Navigator is a set of React components providing a declarative API alternative to [React Navigation](https://reactnavigation.org/en/).
 
 # Install: #
     npm install --save react-navigation-hoc
