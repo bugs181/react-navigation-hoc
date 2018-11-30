@@ -8,7 +8,7 @@ Navigator is a set of React components providing a declarative API alternative t
     
 # Example: #
 
-    import React from 'react';
+    import React from 'react'
     import { Navigator, TabBarBottom, Tab, Screen } from 'react-navigation-hoc'
     
     import Hello from './screens/Hello'
@@ -28,7 +28,7 @@ Navigator is a set of React components providing a declarative API alternative t
               </Tab>
             </TabBarBottom>
           </Navigator>
-        );
+        )
       }
     }
 
