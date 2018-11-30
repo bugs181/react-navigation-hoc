@@ -42,8 +42,7 @@ Navigator is a set of React components providing a declarative API alternative t
 - Works for version ~2 and ^3 of react-navigation
 
 # Prerequisites: #
-- react-navigation
-- react-navigation-tabs
+- react-navigation-*
 
 # Available components: #
 - \<Navigator /> - Top level component required to initialize children components.
