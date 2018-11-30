@@ -1,5 +1,5 @@
 # react-navigation-hoc
-Declarative Higher Order Components for react-navigation
+Declarative Higher Order Components for React Navigation
 
 Navigator is a set of React components providing a declarative API alternative to [React Navigation](https://reactnavigation.org/en/).
 
