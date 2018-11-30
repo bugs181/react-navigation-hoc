@@ -49,5 +49,5 @@ Navigator is a set of React components providing a declarative API alternative t
 - \<TabBarBottom /> - createBottomTabNavigator
 - \<Tab /> - Helper component
 - \<Stack /> - createStackNavigator
-- \<Screen /> - Wrapper component for your screens
+- \<Screen /> - Wrapper component for your screens. Provides lifecycle methods.
 
